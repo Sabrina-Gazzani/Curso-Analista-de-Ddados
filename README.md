@@ -3,7 +3,7 @@
 Este repositório contém os **exercícios** que estou desenvolvendo durante o meu curso de Analista de Dados.
 
 ## 📁 Organização
-
+- `/Dashboards no Excel
 - `/Modulo Basico-Fundamentos de Alta Performance no Excel`: Aula 1: Entendendo o que são dados desestruturados
 - `/Modulo Basico-Fundamentos de Alta Performance no Excel`: Aula 2: transfomando dados destruturados em dados estruturados com tabela dinâmica e gráfico
   
