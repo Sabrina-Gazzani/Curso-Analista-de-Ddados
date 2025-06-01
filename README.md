@@ -4,7 +4,9 @@ Este repositório contém os **exercícios** que estou desenvolvendo durante o m
 
 ## 📁 Organização
 
-- `/exercicios-Iniciação ao Excel`: Dashboards financeiros no Excel
+- `/Modulo Basico-Fundamentos de Alta Performance no Excel`: Aula 1: Entendendo o que são dados desestruturados
+- `/Modulo Basico-Fundamentos de Alta Performance no Excel`: Aula 2: transfomando dados destruturados em dados estruturados com tabela dinâmica e gráfico
+  
   
 
 ## 📌 Ferramentas utilizadas
